@@ -1,0 +1,103 @@
+.kattaota{
+    width: 80%;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 100px;
+
+    display: flex;
+    
+}
+h3{
+    color: gray;
+    font-size: 15px;
+}
+h1{
+    font-size: 50px;
+}
+.ong{
+    font-size: 50px;
+    gap: 100px;
+   display: block;
+
+
+}
+
+h6{
+    font-size: 20px;
+    
+
+}
+
+.chap{
+    width: 50%;
+    height: 100%;
+
+}
+.a1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.a1 div{
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+
+    flex-direction: column;
+}
+.a2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.a2 div{
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+
+    flex-direction: column;
+}
+.a3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.a3 div{
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+    
+
+    flex-direction: column;
+}
+.a44{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.a44 div{
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+
+
+    flex-direction: column;
+}
+.a5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.a5 div{
+    width: 100px;
+    height: 100px;
+    font-size: 28px;
+
+  
+    flex-direction: column;
+}
